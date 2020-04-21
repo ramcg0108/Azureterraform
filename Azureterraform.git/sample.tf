@@ -8,7 +8,7 @@ client_secret = "m_qjBfXWTZeED-P2ogl5CBTs1AE?I:i7"
 tenant_id = "98fdb452-426e-4115-a818-f2107c956852"
 }
 
-# Create a resource group for azure
+# Create a resource group for azure1
 resource "azurerm_resource_group" "example" {
   name     = "test-resources"
   location = "East US"
